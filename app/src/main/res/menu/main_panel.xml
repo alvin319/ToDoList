@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainPanel">
+    <item
+        android:id="@+id/add_item"
+        android:icon="@drawable/plus"
+        android:title="Add a new list"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom" />
+</menu>
